@@ -1,0 +1,9 @@
+/* 重置vant样式 */
+
+.hot_listWrap .van-tabs__nav--line {
+    padding-left: 100px;
+    background-color: #f3f3f3;
+    background-image: url("../assets/hot_title_icon.png");
+    background-repeat: no-repeat;
+    background-position: 8px 3px;
+}
